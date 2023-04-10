@@ -7,6 +7,8 @@
 <br />
 # GrayHat-Junior-FrontEnd-Test
 
+Created using node 16.19.1
+
 ### Installation:
 
 - Clone the repo
