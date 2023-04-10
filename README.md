@@ -6,3 +6,13 @@
 <br />
 <br />
 # GrayHat-Junior-FrontEnd-Test
+
+### Installation:
+
+- Clone the repo
+
+- cd into the directory
+
+- run npm install
+
+- run npm start
